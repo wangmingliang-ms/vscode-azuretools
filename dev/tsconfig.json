@@ -14,8 +14,7 @@
         "strictNullChecks": true,
         "noUnusedParameters": true,
         "strict": true,
-        "alwaysStrict": true,
-        "skipLibCheck": true // https://github.com/Azure/ms-rest-js/issues/367
+        "alwaysStrict": true
     },
     "exclude": [
         "node_modules",
